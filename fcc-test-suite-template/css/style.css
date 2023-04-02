@@ -1,0 +1,45 @@
+#img-div {
+text-align: center;
+}
+
+body {
+background-image: url(https://images.pexels.com/photos/256643/pexels-photo-256643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+background-size: cover;
+  color: black;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+#main {
+max-width: 800px;
+margin: 0 auto;
+text-align: center;
+padding: 20px;
+}
+
+h1 {
+text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-caption {
+font-style: italic;
+}
+
+#tribute-link {
+display: block;
+margin-top: 30px;
+font-size: 24px;
+text-decoration: none;
+color: black;
+}
+
+#tribute-link:hover {
+color: lightgray;
+}
